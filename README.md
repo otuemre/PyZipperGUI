@@ -38,6 +38,10 @@ This project includes three main Python scripts:
    - **To create a zip file**: Run `to_zip.py`.
    - **To extract a zip file**: Run `from_zip.py`.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 ## Acknowledgments
 
 This project was inspired by the [Python Mega Course](https://www.udemy.com/course/the-python-mega-course/) by Ardit Sulce. Special thanks to Ardit Sulce for the educational resources that guided the development of this project.
